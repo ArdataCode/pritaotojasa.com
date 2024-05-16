@@ -1,0 +1,457 @@
+[28-Sep-2023 07:34:25 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(created)) AS days FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[28-Sep-2023 07:34:25 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(id) FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[28-Sep-2023 08:17:48 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 508 made by get_default_post_to_edit, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[29-Sep-2023 03:54:51 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 507 made by require_once('wp-admin/admin-footer.php'), do_action('admin_footer'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\ContentAI\Content_AI_Page->content_editor_settings, RankMath\ContentAI\Content_AI_Page->get_content_editor_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[29-Sep-2023 07:56:22 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(created)) AS days FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[29-Sep-2023 07:56:22 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(id) FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[30-Sep-2023 08:03:41 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(created)) AS days FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[30-Sep-2023 08:03:41 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(id) FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[30-Sep-2023 08:03:51 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 510 made by wp_dashboard, do_meta_boxes, wp_dashboard_quick_press, get_default_post_to_edit, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 08:04:50 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 511 made by get_default_post_to_edit, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 08:06:50 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 512 made by get_default_post_to_edit, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 08:28:47 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query SHOW FULL COLUMNS FROM `wp_rank_math_analytics_objects` made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, RankMath\Analytics\DB::update_object, RankMath\Analytics\DB::add_object, MyThemeShop\Database\Query_Builder->insert
+[30-Sep-2023 08:30:08 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query SHOW FULL COLUMNS FROM `wp_rank_math_analytics_objects` made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, RankMath\Analytics\DB::update_object, RankMath\Analytics\DB::add_object, MyThemeShop\Database\Query_Builder->insert
+[30-Sep-2023 16:33:09 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 514 made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, Elementor\Core\Settings\Page\Manager->save_post_status, wp_update_post, wp_insert_post, do_action('post_updated'), WP_Hook->do_action, WP_Hook->apply_filters, wp_save_post_revision, _wp_put_post_revision, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 16:33:11 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query SHOW FULL COLUMNS FROM `wp_rank_math_analytics_objects` made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, Elementor\Core\Settings\Page\Manager->save_post_status, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, RankMath\Analytics\DB::update_object, RankMath\Analytics\DB::add_object, MyThemeShop\Database\Query_Builder->insert
+[30-Sep-2023 16:33:11 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 515 made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, wp_update_post, wp_insert_post, do_action('post_updated'), WP_Hook->do_action, WP_Hook->apply_filters, wp_save_post_revision, _wp_put_post_revision, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 16:33:12 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query SHOW FULL COLUMNS FROM `wp_rank_math_analytics_objects` made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, RankMath\Analytics\DB::update_object, RankMath\Analytics\DB::add_object, MyThemeShop\Database\Query_Builder->insert
+[30-Sep-2023 16:33:12 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 516 made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_elements, Elementor\DB->save_plain_text, wp_update_post, wp_insert_post, do_action('post_updated'), WP_Hook->do_action, WP_Hook->apply_filters, wp_save_post_revision, _wp_put_post_revision, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 16:33:12 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query SHOW FULL COLUMNS FROM `wp_rank_math_analytics_objects` made by do_action('wp_ajax_elementor_ajax'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request, call_user_func, Elementor\Core\Documents_Manager->ajax_save, Elementor\Core\Base\Document->save, Elementor\Core\Base\Document->save_elements, Elementor\DB->save_plain_text, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, RankMath\Analytics\DB::update_object, RankMath\Analytics\DB::add_object, MyThemeShop\Database\Query_Builder->insert
+[30-Sep-2023 16:52:33 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 10 made by update_option, do_action('update_option_blogname'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}, Elementor\Core\Kits\Manager->update_kit_settings_based_on_option, Elementor\Core\Base\Document->update_settings, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 16:52:33 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 10 made by update_option, do_action('update_option_blogdescription'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}, Elementor\Core\Kits\Manager->update_kit_settings_based_on_option, Elementor\Core\Base\Document->update_settings, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 16:56:25 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_objects' doesn't exist for query DELETE FROM wp_rank_math_analytics_objects WHERE object_type = 'post' AND object_id = 10 made by update_option, do_action('update_option_blogdescription'), WP_Hook->do_action, WP_Hook->apply_filters, Elementor\Core\Kits\Manager->Elementor\Core\Kits\{closure}, Elementor\Core\Kits\Manager->update_kit_settings_based_on_option, Elementor\Core\Base\Document->update_settings, Elementor\Core\Base\Document->save_settings, Elementor\Core\Settings\Page\Manager->ajax_before_save_settings, wp_update_post, wp_insert_post, do_action('save_post'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Analytics\Watcher->update_post_info, MyThemeShop\Database\Query_Builder->delete, MyThemeShop\Database\Query_Builder->query
+[30-Sep-2023 20:21:18 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(DISTINCT(created)) AS days FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[30-Sep-2023 20:21:18 UTC] WordPress database error Table 'u1567848_wp294.wp_rank_math_analytics_gsc' doesn't exist for query SELECT COUNT(id) FROM wp_rank_math_analytics_gsc LIMIT 0, 1 made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, CMB2_Bootstrap_2101->include_cmb, cmb2_bootstrap, do_action('cmb2_admin_init'), WP_Hook->do_action, WP_Hook->apply_filters, RankMath\Admin\Options->register_option_page, include('/plugins/seo-by-rank-math/includes/modules/analytics/views/options.php'), RankMath\Analytics\DB::info, MyThemeShop\Database\Query_Builder->getVar, MyThemeShop\Database\Query_Builder->one
+[15-Oct-2023 04:32:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'jpsq_sync_checkout' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->is_locked, Automattic\Jetpack\Sync\Queue->get_checkout_id
+[15-Oct-2023 04:32:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT count(*) FROM wp_options WHERE option_name LIKE 'jpsq_sync-%' made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_sync, Automattic\Jetpack\Sync\Dedicated_Sender::spawn_sync, Automattic\Jetpack\Sync\Queue->size, Automattic\Jetpack\Sync\Queue\Queue_Storage_Options->get_item_count
+[15-Oct-2023 04:32:25 UTC] WordPress database error Commands out of sync; you can't run this command now for query SELECT option_value FROM wp_options WHERE option_name = 'jetpack_sync_full_status' LIMIT 1 made by shutdown_action_hook, do_action('shutdown'), WP_Hook->do_action, WP_Hook->apply_filters, Automattic\Jetpack\Sync\Sender->do_full_sync, Automattic\Jetpack\Sync\Modules\Full_Sync_Immediately->get_status, Jetpack_Options::get_raw_option
+[10-Jan-2024 07:16:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Jan-2024 07:13:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[13-Jan-2024 07:15:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[17-Jan-2024 07:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[18-Jan-2024 16:05:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[25-Jan-2024 07:50:47 UTC] PHP Deprecated:  ltrim(): Passing null to parameter #1 ($string) of type string is deprecated in /home/websit19/pritaotojasa.com/wp-includes/formatting.php on line 4494
+[30-Jan-2024 16:05:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[08-Feb-2024 16:05:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[11-Feb-2024 16:03:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[15-Feb-2024 03:50:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[17-Feb-2024 16:05:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1525): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[20-Feb-2024 00:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[28-Feb-2024 00:38:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[06-Mar-2024 00:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[12-Mar-2024 00:38:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1528): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[14-Mar-2024 20:32:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[21-Mar-2024 08:32:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[23-Mar-2024 06:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[27-Mar-2024 04:30:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[02-Apr-2024 16:04:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:874
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1961): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1682): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1518): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(203): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 874
+[04-Apr-2024 04:31:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[11-Apr-2024 04:29:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[13-Apr-2024 04:29:32 UTC] PHP Warning:  Undefined array key 0 in /home/websit19/pritaotojasa.com/wp-content/plugins/bdthemes-prime-slider-lite/dci/insights.php on line 268
+[16-Apr-2024 04:31:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[25-Apr-2024 04:28:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[01-May-2024 04:28:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfIssues.php(489): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(396): wfIssues->emailNewIssues()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScanEngine.php(225): wfScanEngine->emailNewIssues()
+#7 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfScan.php(211): wfScanEngine->go()
+#8 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(1524): wfScan::wfScanMain()
+#9 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::ajax_doScan_callback()
+#10 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#11 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#12 /home/websit19/pritaotojasa.com/wp-admin/admin-ajax.php(207): do_action()
+#13 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
+[02-May-2024 03:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PHPMailer\PHPMailer\mail() in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php:881
+Stack trace:
+#0 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1972): PHPMailer\PHPMailer\PHPMailer->mailPassthru()
+#1 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1693): PHPMailer\PHPMailer\PHPMailer->mailSend()
+#2 /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php(1525): PHPMailer\PHPMailer\PHPMailer->postSend()
+#3 /home/websit19/pritaotojasa.com/wp-includes/pluggable.php(546): PHPMailer\PHPMailer\PHPMailer->send()
+#4 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(7471): wp_mail()
+#5 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfAlerts.php(96): wordfence::alert()
+#6 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wfCentralAPI.php(814): wfWordfenceDeactivatedAlert->send()
+#7 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wfCentral::sendAlertCallback()
+#8 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#9 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/websit19/pritaotojasa.com/wp-content/plugins/wordfence/lib/wordfenceClass.php(108): do_action()
+#11 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(324): wordfence::uninstallPlugin()
+#12 /home/websit19/pritaotojasa.com/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#13 /home/websit19/pritaotojasa.com/wp-includes/plugin.php(517): WP_Hook->do_action()
+#14 /home/websit19/pritaotojasa.com/wp-admin/includes/plugin.php(828): do_action()
+#15 /home/websit19/pritaotojasa.com/wp-admin/plugins.php(211): deactivate_plugins()
+#16 {main}
+  thrown in /home/websit19/pritaotojasa.com/wp-includes/PHPMailer/PHPMailer.php on line 881
